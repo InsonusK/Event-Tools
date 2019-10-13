@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InsonusK.EventInvocator", "InsonusK.EventInvocator\InsonusK.EventInvocator.csproj", "{80D8C958-E4F0-4C47-A2E6-844B8DE9AEDA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InsonusK.EventInvocator.Test", "InsonusK.EventInvocator.Test\InsonusK.EventInvocator.Test.csproj", "{2364CC59-BC9D-46F3-9437-A6452ECFA1F9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{80D8C958-E4F0-4C47-A2E6-844B8DE9AEDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80D8C958-E4F0-4C47-A2E6-844B8DE9AEDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80D8C958-E4F0-4C47-A2E6-844B8DE9AEDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80D8C958-E4F0-4C47-A2E6-844B8DE9AEDA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2364CC59-BC9D-46F3-9437-A6452ECFA1F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2364CC59-BC9D-46F3-9437-A6452ECFA1F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2364CC59-BC9D-46F3-9437-A6452ECFA1F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2364CC59-BC9D-46F3-9437-A6452ECFA1F9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
