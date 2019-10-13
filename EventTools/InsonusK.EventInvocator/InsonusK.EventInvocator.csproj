@@ -3,6 +3,11 @@
     <PropertyGroup>
         <TargetFramework>netcoreapp2.2</TargetFramework>
         <LangVersion>latest</LangVersion>
+        <Title>EventInvocator</Title>
+        <Authors>InsonusK</Authors>
+        <Description>Extension for save invoke of events</Description>
+        <PackageProjectUrl>https://github.com/InsonusK/Event-Tools</PackageProjectUrl>
+        <PackageVersion>1.0.1</PackageVersion>
     </PropertyGroup>
 
 </Project>
