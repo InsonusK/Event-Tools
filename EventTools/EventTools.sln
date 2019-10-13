@@ -4,6 +4,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InsonusK.EventInvocator", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InsonusK.EventInvocator.Test", "InsonusK.EventInvocator.Test\InsonusK.EventInvocator.Test.csproj", "{2364CC59-BC9D-46F3-9437-A6452ECFA1F9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InsonusK.WeakSubscriberManager", "InsonusK.WeakSubscriberManager\InsonusK.WeakSubscriberManager.csproj", "{70C1ED17-DFED-4CF5-BAAE-C3DDFC2A7CD0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InsonusK.WeakSubscriberManager.Test", "InsonusK.WeakSubscriberManager.Test\InsonusK.WeakSubscriberManager.Test.csproj", "{4B679729-F715-4EDA-9DF9-F52A6C7CD77E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +22,13 @@ Global
 		{2364CC59-BC9D-46F3-9437-A6452ECFA1F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2364CC59-BC9D-46F3-9437-A6452ECFA1F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2364CC59-BC9D-46F3-9437-A6452ECFA1F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70C1ED17-DFED-4CF5-BAAE-C3DDFC2A7CD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70C1ED17-DFED-4CF5-BAAE-C3DDFC2A7CD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70C1ED17-DFED-4CF5-BAAE-C3DDFC2A7CD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70C1ED17-DFED-4CF5-BAAE-C3DDFC2A7CD0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B679729-F715-4EDA-9DF9-F52A6C7CD77E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B679729-F715-4EDA-9DF9-F52A6C7CD77E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B679729-F715-4EDA-9DF9-F52A6C7CD77E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B679729-F715-4EDA-9DF9-F52A6C7CD77E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
